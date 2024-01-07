@@ -1,0 +1,23 @@
+﻿  main.c
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "5" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "6" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "7" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "8" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "9" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(74,31): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "5" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "6" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "7" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "8" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): warning C4477: "fscanf": в строке форматирования "%u" требуется аргумент типа "unsigned int *", но вариативный аргумент "9" имеет тип "unsigned char *"
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(221,26): message : рекомендуется использовать "%hhu" в строке форматирования
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(245,32): warning C4244: return: преобразование "__int64" в "int", возможна потеря данных
+C:\Users\Михаил\Desktop\laba2.C\num5\main.c(157): error C4703: используется потенциально неинициализированная локальная переменная-указатель "file_write"
